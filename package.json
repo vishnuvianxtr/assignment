@@ -1,0 +1,20 @@
+{
+  "name": "assignment-nichesoft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "web": "node index.js"
+  },
+  "author": "Vishnu",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "git": "^0.1.5",
+    "node-fetch": "^2.6.1"
+  }
+}
